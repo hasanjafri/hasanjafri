@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Manulife](https://www.manulife.ca/personal.html)
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing, Machine Learning and AI Integrations**
 
 - 📝 I’ve previously co-founded [Big Shooter Golf](https://bigshootergolf.com/)
 
