@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react, react-native, angular2+, django**
 
-- 📫 How to reach me **hasan@hasanjafri.com**
+- 📫 How to reach me **hasan.jafri7@gmail.com**
 
 - 📄 Know about my experiences [https://hasanjafri.com/](https://hasanjafri.com/)
 
