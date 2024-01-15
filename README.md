@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanjafri" alt="hasanjafri" /></a> </p>
 
-- 🔭 I’m currently working at [Manulife](https://www.manulife.ca/personal.html)
+- 🔭 I’m currently working at [Delphia](https://delphia.com/)
 
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning and AI Integrations**
 
 - 📝 I’ve previously co-founded [Big Shooter Golf](https://bigshootergolf.com/)
 
-- 🤝 I’m currently working on [Laughpad](https://laughpadapp.com/terms)
+- 🤝 I’m currently working on [Laughpad](https://web.laughpadapp.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasanjafri](https://github.com/hasanjafri)
 
-- 💬 Ask me about **react, react-native, angular2+, django**
+- 💬 Ask me about **react, react-native, angular2+, python**
 
 - 📫 How to reach me **hasan.jafri7@gmail.com**
 
