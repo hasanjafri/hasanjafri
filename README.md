@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning and AI Integrations**
 
-- 📝 I’ve previously co-founded [Big Shooter Golf](https://bigshootergolf.com/)
+- 📝 I’ve previously co-founded [Laughpad](https://web.laughpadapp.com/)
 
-- 🤝 I’m currently working on [Laughpad](https://web.laughpadapp.com/)
+- 🤝 I’m currently working on [Big Shooter Golf](https://bigshootergolf.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hasanjafri](https://github.com/hasanjafri)
 
